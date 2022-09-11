@@ -1,0 +1,13 @@
+E:\SQLProgramming\Repo\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\SQLProgramming\Repo\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\SQLProgramming\Repo\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.pdb
+E:\SQLProgramming\Repo\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.json
+E:\SQLProgramming\Repo\Common\bin\Debug\netcoreapp3.1\Common.runtimeconfig.dev.json
+E:\SQLProgramming\Repo\Common\obj\Debug\netcoreapp3.1\Common.genruntimeconfig.cache
